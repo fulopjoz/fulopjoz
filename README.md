@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML, AI, Data analysis, Biochem, Genetics, Drug develpment**
 
-- ⚡ Fun fact **Hidden Markov Models are like the recipe for Kentucky Fried Chicken.  There are only three people in the world who understand small parts of how HMMs work, and only when they get together do they know the full picture**
+- ⚡ Fun fact **The Twitter bird actually has a name – Larry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
