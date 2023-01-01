@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jozef Fulop</h1>
+<h1 align="center">Hi 👋, I'm Jozef </h1>
 <h3 align="center">I study Bioinformatics in Prague Czech republic</h3>
 
 - 🌱 I’m currently learning **ML, AI, Data analysis, Biochem, Genetics, Drug develpment**
