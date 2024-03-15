@@ -1,44 +1,50 @@
-<h1 align="center">Hello! 👋</h1>
-<p align="center">I'm Jozef, a Bioinformatics student from Prague, Czech Republic.</p>
-<p align="center">Welcome to my GitHub profile!</p>
-
-<h3 align="center">🌱 What I'm currently learning:</h3>
-<p align="center">Exploring new technologies and expanding my skills:</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20-%23F7DF1E.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis%20-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20-%230077B5.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computational%20Drug%20Design%20-%23205C80.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Genomics%20-%234285F4.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Drug%20Development%20-%23F8981D.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gene%20Expression%20Analysis%20-%23000000.svg?&style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<h3 align="center">💻 Languages and Tools:</h3>
-<p align="center">Familiar with a range of tools and technologies:</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R%20-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20-%234479A1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?&style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook%20-%23F37626.svg?&style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vscode%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda%20-%2344A833.svg?&style=flat-square&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn%20-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib%20-%23FFCA28.svg?&style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<h3 align="center">👥 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/fulopj/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:fulop.jozef1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jozef's Professional Profile</title>
+</head>
+<body>
+    <div style="text-align: center; max-width: 600px; margin: auto;">
+        <!-- Introduction -->
+        <h1>Welcome</h1>
+        <p>I am Jozef, a dedicated Bioinformatics student based in Prague, Czech Republic. This is my professional GitHub profile.</p>
+        
+        <!-- Academic Interests -->
+        <h2>Academic Interests</h2>
+        <p>My current academic pursuits include exploring new technologies and methodologies in:</p>
+        <ul>
+            <li>Machine Learning</li>
+            <li>Data Analysis</li>
+            <li>Artificial Intelligence</li>
+            <li>Computational Drug Design</li>
+            <li>Genomics</li>
+            <li>Drug Development</li>
+            <li>Gene Expression Analysis</li>
+        </ul>
+        
+        <!-- Skills and Tools -->
+        <h2>Skills and Tools</h2>
+        <p>I have developed proficiency in the following:</p>
+        <ul>
+            <li>Programming Languages: Python, R, SQL</li>
+            <li>Version Control: Git</li>
+            <li>Operating Systems: Linux</li>
+            <li>Containers: Docker</li>
+            <li>Data Visualization: Tableau</li>
+            <li>Scripting: Bash</li>
+            <li>Development Tools: Jupyter Notebook, VSCode, Anaconda</li>
+            <li>Machine Learning Frameworks: Scikit-learn, Keras, TensorFlow</li>
+            <li>Data Manipulation Libraries: Pandas, NumPy</li>
+            <li>Plotting Libraries: Matplotlib</li>
+        </ul>
+        
+        <!-- Connect -->
+        <h2>Connect With Me</h2>
+        <p>You can connect with me via the following platforms:</p>
+        <a href="https://www.linkedin.com/in/fulopj/">LinkedIn</a> |
+        <a href="mailto:fulop.jozef1@gmail.com">Email</a>
+    </div>
+</body>
+</html>
