@@ -26,7 +26,7 @@ I have developed proficiency in the following:
 **Data Visualization:** Tableau  
 **Scripting:** Bash  
 **Development Tools:** Jupyter Notebook, VSCode, Anaconda  
-**Machine Learning Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch
+**Machine Learning Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch 
 **Data Manipulation Libraries:** Pandas, NumPy  
 **Plotting Libraries:** Matplotlib  
 
