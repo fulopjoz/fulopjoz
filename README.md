@@ -34,13 +34,14 @@ I have developed proficiency in the following:
 
 I have successfully completed several courses and earned certificates in key areas of study, including:
 
-- Basic Quantum Computing Algorithms and Their Implementation in Cirq
-- Building Transformer-Based Natural Language Processing Applications
-- Database Design
-- Database Programming with SQL
-- Certificate of 7ADD attendance
-- Oracle SQL Fundamentals
-- Soft Skills Training
+- Basic Quantum Computing Algorithms and Their Implementation in Cirq **IT4Innovation**
+- Building Transformer-Based Natural Language Processing Applications **NVIDIA**
+- Database Design **ORACLE**
+- Database Programming with SQL **ORACLE**
+- Certificate of 7ADD attendance **UPOL CZ**
+- Oracle SQL Fundamentals **ORACLE**
+- Soft Skills Training **P&G**
+- 
 ## Connect With Me
 
 You can connect with me via the following platforms:
