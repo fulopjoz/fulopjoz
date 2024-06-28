@@ -1,51 +1,59 @@
-# Welcome
+Jozef Fulop
+Bioinformatics and Cheminformatics Graduate (Ing.) | Master of Engineering
+Prague, Czech Republic
+Focus Areas
 
-I am Jozef, a dedicated Bioinformatics and Cheminformatics student based in Prague, Czech Republic. This is my professional GitHub profile.
+Machine Learning & Artificial Intelligence
+Data Analysis & Visualization
+Computational Drug Design
+Genomics & Gene Expression Analysis
 
-## Academic Interests
+Core Skills
 
-My current academic pursuits include exploring new technologies and methodologies in:
+Languages: Python, R, SQL
+Tools: Git, Linux, Docker, Tableau
+Frameworks: Scikit-learn, Keras, TensorFlow, PyTorch
+Libraries: Pandas, NumPy, Matplotlib
 
-- Machine Learning
-- Data Analysis
-- Artificial Intelligence
+Key Certifications
+
+Building Transformer-Based NLP Applications (NVIDIA)
+Database Design & Programming with SQL (ORACLE)
+Quantum Computing Algorithms (IT4Innovation)
+Oracle SQL Fundamentals
+
+
+Jozef Fulop
+
+Bioinformatics and Cheminformatics Graduate (Ing.) | Master of Engineering
+Prague, Czech Republic
+
+## Focus Areas
+
+- Machine Learning & Artificial Intelligence
+- Data Analysis & Visualization
 - Computational Drug Design
-- Genomics
 - Drug Development
-- Gene Expression Analysis
-- Neural Networks
+- Genomics & Gene Expression Analysis
 
-## Skills and Tools
+## Core Skills
 
-I have developed proficiency in the following:
+**Languages:** Python, R, SQL  
+**Tools:** Git, Linux, Docker, Tableau
+**Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch  
+**Libraries:** Pandas, NumPy, Matplotlib  
 
-**Programming Languages:** Python, R, SQL  
-**Version Control:** Git  
-**Operating Systems:** Linux  
-**Containers:** Docker  
-**Data Visualization:** Tableau  
-**Scripting:** Bash  
-**Development Tools:** Jupyter Notebook, VSCode, Anaconda  
-**Machine Learning Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch 
-**Data Manipulation Libraries:** Pandas, NumPy  
-**Plotting Libraries:** Matplotlib  
+## Key Certifications
 
-## Certificates
-
-I have successfully completed several courses and earned certificates in key areas of study, including:
-
-- Building Transformer-Based Natural Language Processing Applications **NVIDIA**
-- Database Design **ORACLE**
-- Database Programming with SQL **ORACLE**
+- Building Transformer-Based NLP Applications **NVIDIA**
+- Database Design & Programming with SQL **ORACLE**
 - Basic Quantum Computing Algorithms and Their Implementation in Cirq **IT4Innovation**
 - Fundamental Quantum Computing Algorithms and Their Implementation in Qiskit **IT4Innovation**
 - Certificate of 7ADD attendance **UPOL CZ**
 - Oracle SQL Fundamentals **ORACLE**
 - Soft Skills Training **P&G**
-- 
-## Connect With Me
 
-You can connect with me via the following platforms:
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/fulopj/)
 - [Email](mailto:fulop.jozef1@gmail.com)
