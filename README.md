@@ -1,29 +1,4 @@
 Jozef Fulop
-Bioinformatics and Cheminformatics Graduate (Ing.) | Master of Engineering
-Prague, Czech Republic
-Focus Areas
-
-Machine Learning & Artificial Intelligence
-Data Analysis & Visualization
-Computational Drug Design
-Genomics & Gene Expression Analysis
-
-Core Skills
-
-Languages: Python, R, SQL
-Tools: Git, Linux, Docker, Tableau
-Frameworks: Scikit-learn, Keras, TensorFlow, PyTorch
-Libraries: Pandas, NumPy, Matplotlib
-
-Key Certifications
-
-Building Transformer-Based NLP Applications (NVIDIA)
-Database Design & Programming with SQL (ORACLE)
-Quantum Computing Algorithms (IT4Innovation)
-Oracle SQL Fundamentals
-
-
-Jozef Fulop
 
 Bioinformatics and Cheminformatics Graduate (Ing.) | Master of Engineering
 Prague, Czech Republic
