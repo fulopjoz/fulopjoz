@@ -1,4 +1,4 @@
-Jozef Fulop
+## Jozef Fulop
 
 Bioinformatics and Cheminformatics Graduate (Ing.) | Master of Engineering
 Prague, Czech Republic
