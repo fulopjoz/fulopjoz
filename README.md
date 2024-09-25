@@ -1,8 +1,6 @@
 ## Jozef Fulop
 
-Bioinformatics and Cheminformatics Graduate (Ing.) | Master of Engineering
-Prague, Czech Republic
-
+PhD. student in Bioinformatics | MSc. in Bioinformatics and Cheminformatics
 ## Focus Areas
 
 - Machine Learning & Artificial Intelligence
