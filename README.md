@@ -11,10 +11,10 @@ PhD. student in Bioinformatics | MSc. in Bioinformatics and Cheminformatics
 
 ## Core Skills
 
-**Languages:** Python, R, SQL  
-**Tools:** Git, Linux, Docker, Tableau
-**Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch  
-**Libraries:** Pandas, NumPy, Matplotlib  
+* **Languages:** Python, R, SQL  
+* **Tools:** Git, Linux, Docker, Tableau
+* **Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch  
+* **Libraries:** Pandas, NumPy, Matplotlib  
 
 ## Key Certifications
 
