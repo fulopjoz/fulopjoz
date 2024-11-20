@@ -13,7 +13,7 @@ PhD. student in Bioinformatics | MSc. in Bioinformatics and Cheminformatics
 
 * **Languages:** Python, R, SQL  
 * **Tools:** Git, Linux, Docker, Tableau
-* **Frameworks:** Scikit-learn, Keras, TensorFlow, PyTorch  
+* **Frameworks:** Scikit-learn,  PyTorch  
 * **Libraries:** Pandas, NumPy, Matplotlib  
 
 ## Key Certifications
