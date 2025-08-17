@@ -1,32 +1,25 @@
-## Jozef Fulop
+# Jozef Fulop
 
-PhD. student in Bioinformatics | MSc. in Bioinformatics and Cheminformatics
-## Focus Areas
+PhD Candidate in Bioinformatics  
+MSc in Bioinformatics & Cheminformatics  
 
-- Machine Learning & Artificial Intelligence
-- Data Analysis & Visualization
-- Computational Drug Design
-- Drug Development
-- Genomics & Gene Expression Analysis
+---
 
-## Core Skills
+## Research Interests
+- Machine Learning and Artificial Intelligence  
+- Computational Drug Design and Development  
+- Genomics and Gene Expression Analysis  
+- Data Analysis and Visualization  
 
-* **Languages:** Python, R, SQL  
-* **Tools:** Git, Linux, Docker, Tableau
-* **Frameworks:** Scikit-learn,  PyTorch  
-* **Libraries:** Pandas, NumPy, Matplotlib  
+---
 
-## Key Certifications
+## Skills
+- **Programming:** Python, R, SQL  
+- **Frameworks & Libraries:** PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
+- **Tools:** Git, Linux, Docker, Tableau  
 
-- Building Transformer-Based NLP Applications **NVIDIA**
-- Database Design & Programming with SQL **ORACLE**
-- Basic Quantum Computing Algorithms and Their Implementation in Cirq **IT4Innovation**
-- Fundamental Quantum Computing Algorithms and Their Implementation in Qiskit **IT4Innovation**
-- Certificate of 7ADD attendance **UPOL CZ**
-- Oracle SQL Fundamentals **ORACLE**
-- Soft Skills Training **P&G**
+---
 
 ## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/fulopj/)
-- [Email](mailto:fulop.jozef1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fulopj/)  
+- [Email](mailto:fulop.jozef1@gmail.com)  
