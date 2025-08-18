@@ -1,5 +1,3 @@
-# Jozef Fulop
-
 PhD Candidate in Bioinformatics  
 MSc in Bioinformatics & Cheminformatics  
 
