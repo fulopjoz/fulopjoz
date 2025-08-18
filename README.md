@@ -11,13 +11,6 @@ MSc in Bioinformatics & Cheminformatics
 
 ---
 
-## Skills
-- **Programming:** Python, R, SQL  
-- **Frameworks & Libraries:** PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
-- **Tools:** Git, Linux, Docker, Tableau  
-
----
-
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/fulopj/)  
 - [Email](mailto:fulop.jozef1@gmail.com)  
